@@ -1,15 +1,11 @@
 // ==UserScript==
 // @name         markt.de Anzeigen-Verwaltung + uBlock Sync
 // @namespace    https://tampermonkey.net/
-// @version      1.6
+// @version      1.7
 // @description  Anzeigen ausblenden, verwalten, löschen und mit uBlock Filterliste syncen
-// @match        https://erotik.markt.de/*
+// @match        https://markt.de/*
 // @grant        none
 // ==/UserScript==
-
-// xx@match        https://erotik.markt.de/berlin/anzeigen/sie-sucht-ihn/*
-
-
 
 (function () {
     'use strict';
