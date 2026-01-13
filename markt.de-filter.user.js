@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         markt.de Anzeigen-Verwaltung + uBlock Sync
 // @namespace    https://tampermonkey.net/
-// @version      1.7
+// @version      1.8
 // @description  Anzeigen ausblenden, verwalten, löschen und mit uBlock Filterliste syncen
-// @match        https://markt.de/*
+// @match        https://*.markt.de/*
 // @grant        none
 // ==/UserScript==
 
